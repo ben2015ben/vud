@@ -1,0 +1,12 @@
+'use custom vote up/down':
+  title: 'custom Use Vote Up/Down'
+  description: 'custom Grant users the ability to cast votes'
+'administer custom vote up/down':
+  title: 'custom Administer Vote Up/Down'
+  description: 'custom Adjust the settings of the Vote Up/Down module'
+'access vote custom up/down statistics':
+  title: 'custom Access Vote Up/Down Statistics'
+  description: 'custom Permission to see who is voting on what'
+'reset custom vote up/down votes':
+  title: 'custom Reset Votes'
+  description: 'custom Grant the ability to undo own votes.'
